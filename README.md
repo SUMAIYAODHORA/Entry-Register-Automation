@@ -21,7 +21,6 @@ The Entry Register Automation for SNK Hall aims to modernize the manual process 
 - **Front-End:** <br>
  HTML<br>
  CSS <br>
- Javascript <br>
 - **Back-End:** <br>
   MySQL (Database) <br>
   PHP (Server-side scripting language) <br>
