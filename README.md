@@ -14,6 +14,17 @@ The Entry Register Automation for SNK Hall aims to modernize the manual process 
 - **Late Entry Application Status:** Students can view the results of the late entry applications as it approved or rejected by the hall provost.
 ### Admin
 - **Notice:** Admin can upload different notices.<br>
-- **Check Late Entry Application:** Admin can view late entry applications submitted by the students,verify all information, and accept or reject the application.<br>
+- **Check Late Entry Application:** Admin can view late entry applications submitted by the students, verify all information, and accept or reject the application.<br>
 - **Generate records:** Admin can generate reports and view all previous late entry application history for a specific student.
+## Required Tools
+-**Framework:** Bootstrap
+-**Front-End:** <br>
+HTML
+CSS
+Javascript
+-**Back-End:** <br>
+MySQL (Database)
+PHP (Server-side scripting language)
+-**IDE:**  VS Code
+
 
