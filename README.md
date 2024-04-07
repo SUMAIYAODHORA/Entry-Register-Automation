@@ -25,5 +25,8 @@ The Entry Register Automation for SNK Hall aims to modernize the manual process 
   MySQL (Database) <br>
   PHP (Server-side scripting language) <br>
 - **IDE:**  VS Code
+## Contributors
+[Ohcitya Bhattacharjee](https://github.com/Ohcitya86) <br>
+[Moutushi Afrin](https://github.com/MouTushi6713)
 
 
